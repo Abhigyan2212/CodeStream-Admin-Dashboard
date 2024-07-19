@@ -1,5 +1,5 @@
-@import url('../../../../src/assets/css/dark/main.css');
-@import url('../../../../src/plugins/css/dark/perfect-scrollbar/perfect-scrollbar.css');
+@import url('../../../../src/assets/css/light/main.css');
+@import url('../../../../src/plugins/css/light/perfect-scrollbar/perfect-scrollbar.css');
 @import url('./structure.css');
 /*
     Importing highlight.js CSS code 

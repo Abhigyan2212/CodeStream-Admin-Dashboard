@@ -4,7 +4,7 @@ window.addEventListener("load", function(){
     var load_screen = document.getElementById("load_screen");
     document.body.removeChild(load_screen);
 
-    var layoutName = 'Collapsible Menu';
+    var layoutName = 'Vertical Dark Menu';
 
     var settingsObject = {
         admin: 'Cork Admin Template',
